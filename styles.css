@@ -1,4 +1,3 @@
-
 .preloader{
     height: 100vh;
     width: 99vw;
@@ -59,7 +58,7 @@ html {
     background-color: #e6fff8;
 }
 :root {
-    --orang:#FF5733 ;
+    --orang:#1cb889 ;
     --white:black;
   }
 
