@@ -62,7 +62,7 @@ window.onload = function () {
   document.body.appendChild(css);
 };
 document.querySelector(".btn-chat").addEventListener("click", function () {
-  location.href = "mailto:21ucc041@lnmiit.ac.in";
+  location.href = "mailto:pragyagarwal@gmail.com";
   var activeButton = document.querySelector("." + "btn-chat");
   activeButton.classList.add("pressed");
 
@@ -136,5 +136,3 @@ document.querySelector(".b4").addEventListener("click", function () {
   document.querySelector("." +"first-div").classList.toggle("first-div-change");
 
 })
-
-
