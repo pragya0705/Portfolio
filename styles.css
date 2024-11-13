@@ -256,7 +256,6 @@ h1 {
     color: var(--orang) ;
     font-family: Noto Sans;
     transition: all 1ms ease-in ;
-
 }
 
 h5 {
@@ -293,7 +292,7 @@ h5 {
     background-color: white;
 }
 .btn1 {
-    margin-left: 36%;
+    margin-left: 40%;
     width: 120px;
     background-color: transparent;
     color: white;
@@ -1225,9 +1224,11 @@ span {
         margin-top: 0;
         padding-top: 0;
     }
-
+    .btn1{
+        margin-left: 33%;
+    }
     .btn2 {
-        margin-left: 35%;
+        margin-left: 33%;
     }
 
     .rightp {
@@ -1357,6 +1358,12 @@ span {
         align-items: center;
         margin-left: 42%;
      }
+     .btn1{
+        margin-left: 30%;
+    }
+    .btn2 {
+        margin-left: 30%;
+    }
 }
 @media (max-width:750px) {
 .p1{
