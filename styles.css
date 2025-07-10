@@ -1190,7 +1190,9 @@ span {
     padding-left: 31%;
 
 }
-
+.button-wrapper {
+  transform: translateX(-10px); /* move 10px left */
+}
 .hori {
     width: 18rem;
 }
